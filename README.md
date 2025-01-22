@@ -9,10 +9,10 @@ Sample solution for the [Expense Tracker challenge](https://roadmap.sh/projects/
 ## Installation
 ```bash
 # Clone this repository
-git clone <repository_url>
-
+git clone [<repository_url>
+](https://github.com/jibarram/Backend-ExpenseTracker)
 # Navigate to the project directory
-cd <project_directory>
+cd [<project_directory>](Backend-ExpenseTracker)
 
 # Install dependencies
 npm install
