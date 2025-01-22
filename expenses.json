@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-22",
+    "description": "Dinner",
+    "amount": 30,
+    "category": "Food"
+  }
+]
